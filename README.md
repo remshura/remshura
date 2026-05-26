@@ -23,7 +23,6 @@
 - 🎧 **Vibecoder** — late-night sessions, lo-fi beats, and clean code
 - 🤖 Currently building **AI-powered web applications**
 - 🌱 Always exploring **new frameworks, tools, and ideas**
-- 💬 Ask me about **React, Next.js, Node.js, Python, AI integration**
 - 📫 Reach me at **rbdilag@gmail.com**
 - ⚡ Fun fact: My best code is written after midnight
 
@@ -87,7 +86,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=remshura&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=remshura&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
