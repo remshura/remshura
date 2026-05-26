@@ -104,7 +104,7 @@
   <a href="https://tanstack-start-app.remshura.workers.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:rbdilag@gmail.com?subject=Hello%20Rem!">
+  <a href="https://mail.google.com/mail/?view=cm&to=rbdilag@gmail.com&subject=Hello%20Rem!" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
