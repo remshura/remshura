@@ -23,6 +23,7 @@
 - 🎧 **Vibecoder** — late-night sessions, lo-fi beats, and clean code
 - 🤖 Currently building **AI-powered web applications**
 - 🌱 Always exploring **new frameworks, tools, and ideas**
+- 💬 Ask me about **React, Next.js, Node.js, Python, AI integration**
 - 📫 Reach me at **rbdilag@gmail.com**
 - ⚡ Fun fact: My best code is written after midnight
 
@@ -57,16 +58,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -82,7 +80,6 @@
 </p>
 
 ---
-
 
 ## 📈 Contribution Activity
 
