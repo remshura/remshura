@@ -5,7 +5,7 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d4ff&height=220&section=header&text=Hey%2C%20I%27m%20Rem!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSCS%20Student%20%7C%20Vibecoder%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=50" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d4ff&height=220&section=header&text=Hey%2C%20I%27m%20Rem!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSCS%20Student%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=50" alt="Banner" />
 </p>
 
 <!-- Typing Animation -->
@@ -20,7 +20,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 **BSCS Student** — passionate about building meaningful software
-- 🎧 **Vibecoder** — late-night sessions, lo-fi beats, and clean code
 - 🤖 Currently building **AI-powered web applications**
 - 🌱 Always exploring **new frameworks, tools, and ideas**
 - 💬 Ask me about **React, Next.js, Node.js, Python, AI integration**
