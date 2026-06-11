@@ -22,7 +22,6 @@
 - 🎓 **BSCS Student** — passionate about building meaningful software
 - 🤖 Currently building **AI-powered web applications**
 - 🌱 Always exploring **new frameworks, tools, and ideas**
-- 💬 Ask me about **React, Next.js, Node.js, Python, AI integration**
 - 📫 Reach me at **rbdilag@gmail.com**
 - ⚡ Fun fact: My best code is written after midnight
 
